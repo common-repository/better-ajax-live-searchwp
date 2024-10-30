@@ -1,0 +1,10 @@
+﻿div.search_result {display: none; }
+.search_bar input {width: 100%; border: 1px solid #ddd; padding: 7px 10px; color: #000; }
+.search_bar {width: 350px; }
+.Search-result-main {padding: 15px 15px 20px; text-align: left; height: 400px; overflow-y: auto; overflow-x: hidden; }
+.Search-result-box {display: flex; flex-wrap: wrap; padding-bottom: 15px; margin-bottom: 15px; }
+.Search-result-left {width: 30%; }
+.Search-result-right {width: 70%; padding-left: 20px; }
+.search-title {margin-bottom: 5px; font-size: 16px; }
+.search-content{font-size: 14px;}
+a.search-Btn {background: transparent; padding: 5px 10px 8px; display: inline-block; line-height: 1; font-size: 14px; transition: 0.3s ease; }
